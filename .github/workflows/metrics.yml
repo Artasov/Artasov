@@ -17,3 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Исключаем секцию community для скрытия: organizations, following, sponsors
+          base: header, activity, repositories, metadata
+          # Убеждаемся что indepth выключен (по умолчанию), чтобы не показывать Pull Requests Reviewed
+          base_indepth: no
