@@ -1,11 +1,13 @@
 <h1 align="center">Nikita Artasov</h1>
-<h3 align="center">FullStack Python / Node.js Developer</h3>
+<h3 align="center">FullStack Web / Python / Node.js / C++ / Web3 Developer</h3>
 
-<p align="center">
- <img width="600" src="assets/snake.svg" alt="snake"/>
+<p align="left">
+ <img width="600" src="github-metrics.svg" alt="snake"/>
 </p>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/artasov)
+[![X](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/xlartasov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xlartas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivanhvalevskey@gmail.com)
 
 ### Now i'm `Lead` two projects:
