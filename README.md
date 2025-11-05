@@ -1,4 +1,4 @@
-<h1 align="center">Nikita Artasov</h1>
+<h1 align="center">Nick Artasov</h1>
 <h3 align="center">FullStack Web / Python / Node.js / C++ / Web3 Developer</h3>
 
 <p align="left">
