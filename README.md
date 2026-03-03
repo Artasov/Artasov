@@ -18,9 +18,9 @@
   I am responsible for architecture, team management and implementation of Agile processes, and I participate in writing
   code.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artasov&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=artasov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+[//]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artasov&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+[//]: <br>
+[//]: <img src="https://github-readme-stats.vercel.app/api?username=artasov&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
 
 <h3>Langs</h3>
 <img src="https://skillicons.dev/icons?i=python,ts,c,cpp,java,sass,html,css&perline=7" />
