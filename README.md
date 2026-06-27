@@ -10,13 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xlartas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivanhvalevskey@gmail.com)
 
-### Now i'm `Lead` two projects:
-
-* The leading US AI startup for finding relevant acquaintances at events
-* A project to automate the maintenance of boiler houses for stable hot water supply in Russia and neighboring
-  countries.
-  I am responsible for architecture, team management and implementation of Agile processes, and I participate in writing
-  code.
+### Tech Lead with 6 yrs exp
 
 [//]: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artasov&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
 [//]: <br>
