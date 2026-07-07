@@ -1,7 +1,8 @@
-<scheme name="Darcula Pitch Black" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Pitch Black copy" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">Python</property>
-    <property name="ideVersion">2026.1.3.0.0</property>
+    <property name="ideVersion">2025.3.2.1.0.0</property>
+    <property name="originalScheme">Darcula Pitch Black copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="444D3B" />
